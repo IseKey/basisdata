@@ -1,0 +1,6 @@
+2108561118_Rafly Shaquille Subhan
+
+Jawaban:
+1. Πsiswa-nama(σ jadwal.kelas-nomor = "1C"(σ siswa.siswa-nim=daftar-hadir.siswa-nim(siswa x daftar hadir) x jadwal)
+2. Πguru-nama,guru-nig(σ kelas.guru-nig - guru.guru-nig(guru x kelas))
+3. σ siswa-tanggal-lahir>01-01-2002(siswa)
